@@ -6,5 +6,5 @@ The 1st answer will explain my idea: https://stackoverflow.com/questions/1539339
 -Server code.  
 -Login and register system.
 
-if u got a question, feel free to discord us https://discord.gg/j6ADSwQ and mention @Blend_Smile
+if u got a question, feel free to discord us https://discord.gg/j6ADSwQ and mention @Blend_Smile  
 or if you like mailing more: mrelytra@gmail.com
